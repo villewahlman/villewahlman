@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Java, Python
+- 📫 How to reach me: email
+
 <!--
 **villewahlman/villewahlman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
